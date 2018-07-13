@@ -15,3 +15,11 @@ You need to do analytics/automation, you need to iterate on what youre doing and
   1.3 Then it will do some cleanup and movement of files. Most importantly, everything will be output to the "Builds" folder, in a seperate folder named as Date-Time so that you know what build it is. Setup your folder structure as set below...
 
 ![alt text](https://raw.githubusercontent.com/jbarbour3/EnterpriseAnalyticsApplicationTemplate/master/Capture.JPG)
+
+If you just blindly copy and execute my code, then move the .exe to your desktop, you'll see the LMTB icon i've made. 
+
+![alt text](https://raw.githubusercontent.com/jbarbour3/EnterpriseAnalyticsApplicationTemplate/master/Capture2.JPG)
+
+Opening the EXE will show the small amount on tkinter code ive put in place.
+
+![alt text](https://raw.githubusercontent.com/jbarbour3/EnterpriseAnalyticsApplicationTemplate/master/Capture3.JPG)
