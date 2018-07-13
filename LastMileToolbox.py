@@ -12,7 +12,6 @@ class LastMileToolbox:
         self.top = self.build_top(self.win)
         self.middle = self.build_middle(self.win)
         self.bottom = self.build_bottom(self.win)
-        self.draw_map()
 
     def apply_defaults(self):
         self.root.geometry('{0}x{1}'.format(root.winfo_screenwidth(), root.winfo_screenheight()))
