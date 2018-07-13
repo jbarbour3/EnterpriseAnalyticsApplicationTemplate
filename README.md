@@ -22,4 +22,4 @@ If you just blindly copy and execute my code, then move the .exe to your desktop
 
 Opening the EXE will show the small amount on tkinter code ive put in place.
 
-![alt text](https://raw.githubusercontent.com/jbarbour3/EnterpriseAnalyticsApplicationTemplate/master/Capture3.JPG)
+![alt text](https://raw.githubusercontent.com/jbarbour3/EnterpriseAnalyticsApplicationTemplate/master/Capture3.JPG) <!-- .element height="50%" width="50%" -->
